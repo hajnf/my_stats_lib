@@ -4,7 +4,7 @@ setup(
     name='my_stats_lib',
     version='0.1.0',
     author='Fatma had',
-    author_email='fa.hadjebe@gmail.com',
+    author_email='',
     description='Une bibliothèque pour le calcul des intervalles de confiance',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
