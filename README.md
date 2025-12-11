@@ -1,15 +1,17 @@
 # my_stats_lib
 
-Une bibliothèque Python pour le calcul des intervalles de confiance, notamment pour des proportions dépendantes.
+Un package Python pour le calcul des intervalles de confiance, notamment pour des proportions dépendantes.
 
-## Installation
+## Installation (locale, après avoir cloné ou téléchargé le package)
 
-Dans le dossier racine du projet, exécutez :
+Dans le dossier racine du projet, exécutez la commande suivante dans le terminal :
 
 ```bash```
 
 pip install . 
 ```
+##Utilisation dans Python
+Exemple qui montre comment importer et utiliser la fonction ci_2dependant_proportions dans un script Python :
 
 ```python```
 
