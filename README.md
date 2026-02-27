@@ -2,7 +2,9 @@
 
 Un package Python pour le calcul des intervalles de confiance, notamment pour des proportions dépendantes.
 
-## Installation (locale, après avoir cloné ou téléchargé le package)
+
+
+### Installation (locale, après avoir cloné ou téléchargé le package)
 
 Dans le dossier racine du projet, exécutez la commande suivante dans le terminal :
 
