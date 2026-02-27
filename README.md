@@ -10,6 +10,24 @@ Dans le dossier racine du projet, exécutez la commande suivante dans le termina
 
 pip install . 
 ```
+
+
+### Structure du projet
+
+```text
+my_stats_lib_project/
+├── my_stats_lib/                # Package principal
+│   ├── __init__.py              # Rend le dossier importable
+│   └── confidence_intervals.py  # Calcul des intervalles de confiance
+├── setup.py                     # Configuration pour l'installation
+├── README.md                    # Documentation et guide d'utilisation
+└── LICENSE.txt                  # Licence du projet
+
+
+
+
+
+
 ##Utilisation dans Python
 Exemple qui montre comment importer et utiliser la fonction ci_2dependant_proportions dans un script Python :
 
