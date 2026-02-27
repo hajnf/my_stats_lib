@@ -14,7 +14,7 @@ pip install .
 
 ### Structure du projet
 
-```text
+
 my_stats_lib_project/
 ├── my_stats_lib/                # Package principal
 │   ├── __init__.py              # Rend le dossier importable
